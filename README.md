@@ -27,5 +27,8 @@ Check out my projects on GitHub:
 - [Sphire/Core](https://github.com/nsa-yoda/Core)
 - [Sphire/ServerStatusEmitter](https://github.com/sphireinc/ServerStatusEmitter)
 - [Sphire/Godex](https://github.com/nsa-yoda/Godex)
+- [Sphire/ServerStatusReporter](#private)
+- [Sphire/ServerStatusRecorder](#private)
+- [Sphire/ServerStatusCommon](#private)
 
 Beyond code, I love tinkering with electronics 🔧 and gardening.
