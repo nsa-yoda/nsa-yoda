@@ -28,7 +28,7 @@ Check out my projects on GitHub:
 - [Sphire/ServerStatusEmitter](https://github.com/sphireinc/ServerStatusEmitter)
 - [Sphire/Godex](https://github.com/sphireinc/Godex)
 - [Sphire/Codex](#private)
-- [Sphire/ServerStatusReporter](#private)
+- [Sphire/ServerStatusReporter](#private) - Recorder and Reporter are what ServerStatusEmitter eventually evolved into
 - [Sphire/ServerStatusRecorder](#private)
 - [Sphire/ServerStatusCommon](#private)
 
