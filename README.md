@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello World! 👋
 
-I'm ✨ Juan ✨, a self-taught coder and lifelong learner 🌱. Born in the Dominican Republic, raised in the South Bronx, and currently somewhere in New Jersey, I thrive on exploring new skills—from cooking and music 🎸 to programming 💻.
+I'm ✨Juan✨, a self-taught coder and lifelong learner. Born in the Dominican Republic, raised in the South Bronx, and currently somewhere in New Jersey, I thrive on exploring new skills—from cooking and music 🎸 to programming 💻.
 
 My coding journey started in middle school, leading to roles at Touro College, Borderfree, and Shutterstock - amongst others.
 
