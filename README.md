@@ -22,6 +22,7 @@ My coding journey started in middle school, leading to roles at Touro College, B
 Check out my projects on GitHub:
 - [PHPBenchTime](https://github.com/nsa-yoda/PHPBenchTime) (and its sister [PyBenchTime](https://github.com/nsa-yoda/PyBenchTime) 😄)
 - [ContextDeleter Chrome Extension](https://github.com/nsa-yoda/ContextDeleter)
+- [ConsistentPHP](https://github.com/nsa-yoda/ConsistentPHP)
 - [react-resume](https://github.com/nsa-yoda/react-resume)
 - [Sphire/Mantis](https://github.com/sphireinc/Mantis)
 - [Sphire/Core](https://github.com/sphireinc/Core)
