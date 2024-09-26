@@ -24,6 +24,7 @@ Check out my projects on GitHub:
 - [ContextDeleter Chrome Extension](https://github.com/nsa-yoda/ContextDeleter)
 - [ConsistentPHP](https://github.com/nsa-yoda/ConsistentPHP)
 - [react-resume](https://github.com/nsa-yoda/react-resume)
+- [Sphire/Hydra](https://github.com/sphireinc/Hydra)
 - [Sphire/Mantis](https://github.com/sphireinc/Mantis)
 - [Sphire/Core](https://github.com/sphireinc/Core)
 - [Sphire/ServerStatusEmitter](https://github.com/sphireinc/ServerStatusEmitter)
