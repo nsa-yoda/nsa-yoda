@@ -20,6 +20,7 @@ I'm a self-taught coder and lifelong learner. Born in the Dominican Republic, ra
 My coding journey started at 11 years old, and has so far lead me to roles at Touro College, Borderfree, and Shutterstock - amongst others, and worked on very interesting projects including for the USDOD, Lucille Roberts, Beaba USA, and NJOP. 
 
 Check out my projects on GitHub:
+- [namegen](https://github.com/nsa-yoda/namegen)
 - [PHPBenchTime](https://github.com/nsa-yoda/PHPBenchTime) (and its sister [PyBenchTime](https://github.com/nsa-yoda/PyBenchTime) 😄)
 - [ContextDeleter Chrome Extension](https://github.com/nsa-yoda/ContextDeleter)
 - [ConsistentPHP](https://github.com/nsa-yoda/ConsistentPHP)
