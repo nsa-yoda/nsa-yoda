@@ -21,6 +21,7 @@ My coding journey started at 11 years old, and has so far lead me to roles at To
 
 Check out my projects on GitHub:
 - [namegen](https://github.com/nsa-yoda/namegen)
+- [go-sdkgen](https://github.com/sphireinc/go-sdkgen)
 - [PHPBenchTime](https://github.com/nsa-yoda/PHPBenchTime) (and its sister [PyBenchTime](https://github.com/nsa-yoda/PyBenchTime) 😄)
 - [ContextDeleter Chrome Extension](https://github.com/nsa-yoda/ContextDeleter)
 - [ConsistentPHP](https://github.com/nsa-yoda/ConsistentPHP)
