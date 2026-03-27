@@ -20,17 +20,24 @@ I'm a self-taught coder and lifelong learner. Born in the Dominican Republic, ra
 My coding journey started at 11 years old, and has so far lead me to roles at Touro College, Borderfree, and Shutterstock - amongst others, and worked on very interesting projects including for the USDOD, Lucille Roberts, Beaba USA, and NJOP. 
 
 Check out my projects on GitHub:
-- [namegen](https://github.com/sphireinc/namegen)
-- [go-sdkgen](https://github.com/sphireinc/go-sdkgen)
-- [PHPBenchTime](https://github.com/nsa-yoda/PHPBenchTime) (and its sister [PyBenchTime](https://github.com/nsa-yoda/PyBenchTime) 😄)
-- [ContextDeleter Chrome Extension](https://github.com/nsa-yoda/ContextDeleter)
-- [ConsistentPHP](https://github.com/nsa-yoda/ConsistentPHP)
-- [react-resume](https://github.com/nsa-yoda/react-resume)
+- [Sphire/namegen](https://github.com/sphireinc/namegen)
+- [Sphire/go-sdkgen](https://github.com/sphireinc/go-sdkgen)
+- [Sphire/Foundry](https://github.com/sphireinc/Foundry)
 - [Sphire/Hydra](https://github.com/sphireinc/Hydra)
+- [Sphire/Godex](https://github.com/sphireinc/Godex)
 - [Sphire/Mantis](https://github.com/sphireinc/Mantis)
 - [Sphire/Core](https://github.com/sphireinc/Core)
 - [Sphire/ServerStatusEmitter](https://github.com/sphireinc/ServerStatusEmitter)
-- [Sphire/Godex](https://github.com/sphireinc/Godex)
+
+---
+
+- [ContextDeleter Chrome Extension](https://github.com/nsa-yoda/ContextDeleter)
+- [ConsistentPHP](https://github.com/nsa-yoda/ConsistentPHP)
+- [PHPBenchTime](https://github.com/nsa-yoda/PHPBenchTime) (and its sister [PyBenchTime](https://github.com/nsa-yoda/PyBenchTime) 😄)
+- [react-resume](https://github.com/nsa-yoda/react-resume)
+
+---
+
 - [Sphire/Codex](#private)
 - [Sphire/ServerStatusReporter](#private) - Recorder and Reporter are what ServerStatusEmitter eventually evolved into
 - [Sphire/ServerStatusRecorder](#private)
