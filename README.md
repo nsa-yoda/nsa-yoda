@@ -37,6 +37,7 @@ These days, I spend a lot of time building tools, libraries, and systems at **Sp
 
 - [PHPBenchTime](https://github.com/nsa-yoda/PHPBenchTime) &raquo; ![](https://img.shields.io/github/stars/nsa-yoda/PHPBenchTime)
 - [ContextDeleter Chrome Extension](https://github.com/nsa-yoda/ContextDeleter) &raquo; ![](https://img.shields.io/github/stars/nsa-yoda/ContextDeleter)
+- [Git Profile](https://github.com/nsa-yoda/git-profile) &raquo;  ![](https://img.shields.io/github/stars/nsa-yoda/git-profile)
 - [ConsistentPHP](https://github.com/nsa-yoda/ConsistentPHP) &raquo; ![](https://img.shields.io/github/stars/nsa-yoda/ConsistentPHP)
 - [PyBenchTime](https://github.com/nsa-yoda/PyBenchTime) &raquo; ![](https://img.shields.io/github/stars/nsa-yoda/PyBenchTime)
 - [react-resume](https://github.com/nsa-yoda/react-resume) &raquo; ![](https://img.shields.io/github/stars/nsa-yoda/react-resume)
