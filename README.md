@@ -52,5 +52,3 @@ These days, I spend a lot of time building tools, libraries, and systems at **Sp
 ---
 
 Beyond code, I love tinkering with electronics, gardening, and building things just to see if I can.
-
-Beyond code, I love tinkering with electronics 🔧 and gardening.
