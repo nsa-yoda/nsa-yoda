@@ -19,7 +19,7 @@ I'm a self-taught coder, lifelong learner, and builder. Born in the Dominican Re
 
 My coding journey started when I was 11 years old. Since then, it has led me through roles at Touro College, Borderfree, Shutterstock, and others - along with work on projects for organizations including the U.S. Department of Defense, Lucille Roberts, Beaba USA, and NJOP.
 
-These days, I spend a lot of time building tools, libraries, and systems at **Sphire** - mostly in Go, with a focus on developer experience, infrastructure, automation, and practical software that solves real problems.
+These days, I spend a lot of time building tools, libraries, and systems at my firm, **Sphire** - mostly in Go, with a focus on developer experience, infrastructure, automation, and practical software that solves real problems.
 
 ## Sphire Projects
 
